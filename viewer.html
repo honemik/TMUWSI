@@ -5,7 +5,7 @@
 </form>
 <p id="demo"></p>
 <div id="seadragon-viewer" style="width: 800px; height: 600px;"></div>
-<script src="//openseadragon.github.io/openseadragon/openseadragon.min.js"></script>
+<script src="/TMUWSI/openseadragon/openseadragon.min.js"></script>
 <script>
     function getQueryVariable(variable) {
         var query = window.location.search.substring(1);
@@ -29,7 +29,7 @@
     if (getQueryVariable("id") != -1) id = getQueryVariable("id");
     if (getQueryVariable("folder") != -1) folder = getQueryVariable("folder");
     var xmlhttp = new XMLHttpRequest();
-    var url = "/b.json";
+    var url = "/TMUWSI/b.json";
     var request = new XMLHttpRequest();
     request.open("GET", url, false); // `false` makes the request synchronous
     request.send(null);
@@ -43,7 +43,7 @@
     maxlev--;
     var viewer = OpenSeadragon({
         id: "seadragon-viewer",
-        prefixUrl: "//openseadragon.github.io/openseadragon/images/",
+        prefixUrl: "/TMUWSI/openseadragon/images/",
         defaultZoomLevel: 0.25,
         imageLoaderlimit: 1,
         debugMode: true,
