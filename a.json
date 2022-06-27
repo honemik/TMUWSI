@@ -1,7 +1,5 @@
 [
   {
-    "index": 0,
-    "id": 1,
     "Slideid": "C12",
     "organ": "spinal cord, x.s., human",
     "stain": "",
@@ -10,8 +8,6 @@
     "webid": "036-C12.svs"
   },
   {
-    "index": 1,
-    "id": 2,
     "Slideid": "C12(2008/10)",
     "organ": "spinal cord,x.s.,human,HE",
     "stain": "",
@@ -20,8 +16,6 @@
     "webid": "101-C12.svs"
   },
   {
-    "index": 2,
-    "id": 3,
     "Slideid": "C15",
     "organ": "",
     "stain": "",
@@ -30,8 +24,6 @@
     "webid": "037-C15.svs"
   },
   {
-    "index": 3,
-    "id": 4,
     "Slideid": "C16",
     "organ": "spinal cord.4 leve.x.s., mammal",
     "stain": "w & nfr stain",
@@ -40,8 +32,6 @@
     "webid": "102-C16.svs"
   },
   {
-    "index": 4,
-    "id": 5,
     "Slideid": "C21",
     "organ": "Cerebral cortrx, monkey",
     "stain": "HE",
@@ -50,8 +40,6 @@
     "webid": "C-20 Cerebral cortrx.svs"
   },
   {
-    "index": 5,
-    "id": 6,
     "Slideid": "C23",
     "organ": "cerebral cortex, human",
     "stain": "",
@@ -60,8 +48,6 @@
     "webid": "041``-C23~1.svs"
   },
   {
-    "index": 6,
-    "id": 7,
     "Slideid": "C23",
     "organ": "cerebral cortex, human",
     "stain": "",
@@ -70,8 +56,6 @@
     "webid": "041`-C23.svs"
   },
   {
-    "index": 7,
-    "id": 8,
     "Slideid": "C24",
     "organ": "Cerebrum",
     "stain": "",
@@ -80,8 +64,6 @@
     "webid": "C24.svs"
   },
   {
-    "index": 8,
-    "id": 9,
     "Slideid": "C31",
     "organ": "",
     "stain": "",
@@ -90,8 +72,6 @@
     "webid": "042-C31.svs"
   },
   {
-    "index": 9,
-    "id": 10,
     "Slideid": "C32",
     "organ": "cerebellum, human",
     "stain": "HE",
@@ -100,8 +80,6 @@
     "webid": "C32.svs"
   },
   {
-    "index": 10,
-    "id": 11,
     "Slideid": "C32(2008/10)",
     "organ": "cerbellum, human",
     "stain": "HE(B)",
@@ -110,8 +88,6 @@
     "webid": "104-C32.svs"
   },
   {
-    "index": 11,
-    "id": 12,
     "Slideid": "C33(2008/10)",
     "organ": "cerebellum, human",
     "stain": "Bieschowsky stain(B)",
@@ -120,8 +96,6 @@
     "webid": "105-C33.svs"
   },
   {
-    "index": 12,
-    "id": 13,
     "Slideid": "C36",
     "organ": "Cerebrllum, monkey",
     "stain": "",
@@ -130,8 +104,6 @@
     "webid": "C-36 Cerebrllum.svs"
   },
   {
-    "index": 13,
-    "id": 14,
     "Slideid": "C41",
     "organ": "cerebrum, cerebellum, brain stem",
     "stain": "",
@@ -140,8 +112,6 @@
     "webid": "C41.svs"
   },
   {
-    "index": 14,
-    "id": 15,
     "Slideid": "D10",
     "organ": "lip,sag.s., human",
     "stain": "HE(F)",
@@ -150,8 +120,6 @@
     "webid": "106-D10.svs"
   },
   {
-    "index": 15,
-    "id": 16,
     "Slideid": "D11",
     "organ": "Lip",
     "stain": "HE",
@@ -160,8 +128,6 @@
     "webid": "D-11 Lip.svs"
   },
   {
-    "index": 16,
-    "id": 17,
     "Slideid": "D21",
     "organ": "tongue, x.s., human",
     "stain": "HE",
@@ -170,8 +136,6 @@
     "webid": "046-D21.svs"
   },
   {
-    "index": 17,
-    "id": 18,
     "Slideid": "D21(2008/10)",
     "organ": "tongue, x.s.,human",
     "stain": "HE(F)",
@@ -180,8 +144,6 @@
     "webid": "107-D21.svs"
   },
   {
-    "index": 18,
-    "id": 19,
     "Slideid": "D24",
     "organ": "Circumvallate papilla",
     "stain": "",
@@ -190,8 +152,6 @@
     "webid": "D-24 Circumvallate papilla.svs"
   },
   {
-    "index": 19,
-    "id": 20,
     "Slideid": "D30",
     "organ": "",
     "stain": "",
@@ -200,8 +160,6 @@
     "webid": "049-D30.svs"
   },
   {
-    "index": 20,
-    "id": 21,
     "Slideid": "D30",
     "organ": "parotid gland, human",
     "stain": "Heidenhain's azan stain",
@@ -210,8 +168,6 @@
     "webid": "049-D30.svs"
   },
   {
-    "index": 21,
-    "id": 22,
     "Slideid": "D32(2008/10)",
     "organ": "submandibular glanan, human",
     "stain": "HE",
@@ -220,8 +176,6 @@
     "webid": "108-D32.svs"
   },
   {
-    "index": 22,
-    "id": 23,
     "Slideid": "D33",
     "organ": "Submandibular gland, cat",
     "stain": "HE",
@@ -230,8 +184,6 @@
     "webid": "D-33` Submandibular gland.svs"
   },
   {
-    "index": 23,
-    "id": 24,
     "Slideid": "D33(2008/10)",
     "organ": "submandibular gland, cat",
     "stain": "HE(F)",
@@ -240,8 +192,6 @@
     "webid": "109-D33.svs"
   },
   {
-    "index": 24,
-    "id": 25,
     "Slideid": "D34",
     "organ": "sublingual gland, human",
     "stain": "HE",
@@ -250,8 +200,6 @@
     "webid": "053-D34.svs"
   },
   {
-    "index": 25,
-    "id": 26,
     "Slideid": "D35",
     "organ": "sublingual gland, human",
     "stain": "HE",
@@ -260,8 +208,6 @@
     "webid": "D-35Sublingual gland.svs"
   },
   {
-    "index": 26,
-    "id": 27,
     "Slideid": "D41",
     "organ": "tooth, ground section, human",
     "stain": "",
@@ -270,8 +216,6 @@
     "webid": "054-D41.svs"
   },
   {
-    "index": 27,
-    "id": 28,
     "Slideid": "D42",
     "organ": "enamel formation,pig fetus",
     "stain": "Mallory-Heidenhaih's azan",
@@ -280,8 +224,6 @@
     "webid": "110-D42.svs"
   },
   {
-    "index": 28,
-    "id": 29,
     "Slideid": "D50",
     "organ": "esophagus, upper portion, x.s., monkey",
     "stain": "HE",
@@ -290,8 +232,6 @@
     "webid": "056-D50.svs"
   },
   {
-    "index": 29,
-    "id": 30,
     "Slideid": "D50(2008/10)",
     "organ": "esophagus, upper portion, x., monkey,",
     "stain": "HE(F)",
@@ -300,8 +240,6 @@
     "webid": "111-D50.svs"
   },
   {
-    "index": 30,
-    "id": 31,
     "Slideid": "D51",
     "organ": "esophagus, middle portion, x.s., monkey",
     "stain": "HE",
@@ -310,8 +248,6 @@
     "webid": "057-D51.svs"
   },
   {
-    "index": 31,
-    "id": 32,
     "Slideid": "D51'",
     "organ": "esophagus, middle portion, x.s., monkey",
     "stain": "HE",
@@ -320,8 +256,6 @@
     "webid": "058-D51`.svs"
   },
   {
-    "index": 32,
-    "id": 33,
     "Slideid": "D51(2008/10)",
     "organ": "esophagus, middle portion,x.s.,monkey",
     "stain": "HE(B)",
@@ -330,8 +264,6 @@
     "webid": "112-D51.svs"
   },
   {
-    "index": 33,
-    "id": 34,
     "Slideid": "D51'(2008/10)",
     "organ": "esophagus, mirddlen portion, x.s., monkey",
     "stain": "HE(F)",
@@ -340,8 +272,6 @@
     "webid": "113-D51.svs"
   },
   {
-    "index": 34,
-    "id": 35,
     "Slideid": "D52",
     "organ": "esophagus, lower portion, x.s., monkey",
     "stain": "HE",
@@ -350,8 +280,6 @@
     "webid": "059-D52.svs"
   },
   {
-    "index": 35,
-    "id": 36,
     "Slideid": "D54",
     "organ": "gastro-esophageal junction, l.s. monkey",
     "stain": "HE",
@@ -360,8 +288,6 @@
     "webid": "061-D54.svs"
   },
   {
-    "index": 36,
-    "id": 37,
     "Slideid": "D61",
     "organ": "stomach, fundic region, humanstomach, fundic region, human",
     "stain": "HE",
@@ -370,8 +296,6 @@
     "webid": "062-D61.svs"
   },
   {
-    "index": 37,
-    "id": 38,
     "Slideid": "D61(2008/10)",
     "organ": "stomach, fundic region, human",
     "stain": "HE",
@@ -380,8 +304,6 @@
     "webid": "114-D61.svs"
   },
   {
-    "index": 38,
-    "id": 39,
     "Slideid": "D63",
     "organ": "stomach, body region, l.s., human",
     "stain": "HE",
@@ -390,8 +312,6 @@
     "webid": "064-D63.svs"
   },
   {
-    "index": 39,
-    "id": 40,
     "Slideid": "D63",
     "organ": "stomach, body region, l.s., human",
     "stain": "HE",
@@ -400,8 +320,6 @@
     "webid": "D-63` Stomach (body).svs"
   },
   {
-    "index": 40,
-    "id": 41,
     "Slideid": "D64",
     "organ": "gastro-duodenal junction, l.s., monkey",
     "stain": "HE",
@@ -410,8 +328,6 @@
     "webid": "065-D64.svs"
   },
   {
-    "index": 41,
-    "id": 42,
     "Slideid": "D64(2008/10)",
     "organ": "gastro-duodenal junction, l.s., monkey",
     "stain": "HE(F)",
@@ -420,8 +336,6 @@
     "webid": "116-D64.svs"
   },
   {
-    "index": 42,
-    "id": 43,
     "Slideid": "D65",
     "organ": "gastro-duodenal junction, l.s., cat",
     "stain": "HE",
@@ -430,8 +344,6 @@
     "webid": "066-D65.svs"
   },
   {
-    "index": 43,
-    "id": 44,
     "Slideid": "D66",
     "organ": "gastro-duodenal junction, l.s., cat",
     "stain": "HE",
@@ -440,8 +352,6 @@
     "webid": "D-66 Sastro-duodenum junction.svs"
   },
   {
-    "index": 44,
-    "id": 45,
     "Slideid": "D66",
     "organ": "stomach, body region, l.s., human",
     "stain": "HE",
@@ -450,8 +360,6 @@
     "webid": "D66.svs"
   },
   {
-    "index": 45,
-    "id": 46,
     "Slideid": "D70",
     "organ": "jejunum, x.s., duodenum, x.s., monkey",
     "stain": "",
@@ -460,8 +368,6 @@
     "webid": "067-D70.svs"
   },
   {
-    "index": 46,
-    "id": 47,
     "Slideid": "D70'",
     "organ": "duodenum, x.s., monkey",
     "stain": "HE",
@@ -470,8 +376,6 @@
     "webid": "068-D70`.svs"
   },
   {
-    "index": 47,
-    "id": 48,
     "Slideid": "D71'",
     "organ": "duodenum, l.s., monkey",
     "stain": "HE",
@@ -480,8 +384,6 @@
     "webid": "070-D71`.svs"
   },
   {
-    "index": 48,
-    "id": 49,
     "Slideid": "D72",
     "organ": "Duodenum",
     "stain": "",
@@ -490,8 +392,6 @@
     "webid": "D-72`Duodenum.svs"
   },
   {
-    "index": 49,
-    "id": 50,
     "Slideid": "D74",
     "organ": "jejunum, x.s., monkey",
     "stain": "HE",
@@ -500,8 +400,6 @@
     "webid": "D-74 jejunum.svs"
   },
   {
-    "index": 50,
-    "id": 51,
     "Slideid": "D74'",
     "organ": "jejunum, x.s., monkey",
     "stain": "HE",
@@ -510,8 +408,6 @@
     "webid": "073-D74`.svs"
   },
   {
-    "index": 51,
-    "id": 52,
     "Slideid": "D75",
     "organ": "ileum, x.s., monkey",
     "stain": "HE",
@@ -520,8 +416,6 @@
     "webid": "074-D75.svs"
   },
   {
-    "index": 52,
-    "id": 53,
     "Slideid": "D75",
     "organ": "ileum, x.s., monkey",
     "stain": "HE",
@@ -530,8 +424,6 @@
     "webid": "079-HD-D75.svs"
   },
   {
-    "index": 53,
-    "id": 54,
     "Slideid": "D75'(2008/10)",
     "organ": "ileum, Paneth cell, human",
     "stain": "HE(F)",
@@ -540,8 +432,6 @@
     "webid": "118-D75.svs"
   },
   {
-    "index": 54,
-    "id": 55,
     "Slideid": "D76",
     "organ": "colon, x.s., monkey",
     "stain": "HE",
@@ -550,8 +440,6 @@
     "webid": "076-D76.svs"
   },
   {
-    "index": 55,
-    "id": 56,
     "Slideid": "D76",
     "organ": "colon, x.s., monkey",
     "stain": "HE",
@@ -560,8 +448,6 @@
     "webid": "077-D76`.svs"
   },
   {
-    "index": 56,
-    "id": 57,
     "Slideid": "D77",
     "organ": "colon, l.s., monkey",
     "stain": "HE",
@@ -570,8 +456,6 @@
     "webid": "078-D77.svs"
   },
   {
-    "index": 57,
-    "id": 58,
     "Slideid": "D77'",
     "organ": "colon, x.s., monkey",
     "stain": "HE",
@@ -580,8 +464,6 @@
     "webid": "079-D77`.svs"
   },
   {
-    "index": 58,
-    "id": 59,
     "Slideid": "D77'(2008/10)",
     "organ": "colon, x.s., monkey",
     "stain": "HE(F)",
@@ -590,8 +472,6 @@
     "webid": "119-D77.svs"
   },
   {
-    "index": 59,
-    "id": 60,
     "Slideid": "D78",
     "organ": "sigmoid colon, x.s., monkey",
     "stain": "HE",
@@ -600,8 +480,6 @@
     "webid": "079-D78.svs"
   },
   {
-    "index": 60,
-    "id": 61,
     "Slideid": "D78",
     "organ": "sigmoid colon, x.s., monkey",
     "stain": "HE",
@@ -610,8 +488,6 @@
     "webid": "D-78 Sigmoid colon.svs"
   },
   {
-    "index": 61,
-    "id": 62,
     "Slideid": "D79",
     "organ": "vermiform appendix, x.s., human",
     "stain": "HE",
@@ -620,8 +496,6 @@
     "webid": "D-79Vermiform appenfix.svs"
   },
   {
-    "index": 62,
-    "id": 63,
     "Slideid": "D79",
     "organ": "vermiform appendix, x.s., human",
     "stain": "",
@@ -630,8 +504,6 @@
     "webid": "080-D79.svs"
   },
   {
-    "index": 63,
-    "id": 64,
     "Slideid": "D83",
     "organ": "pancreas, human",
     "stain": "Heidenhain's azan stain",
@@ -640,8 +512,6 @@
     "webid": "082-D83.svs"
   },
   {
-    "index": 64,
-    "id": 65,
     "Slideid": "D84",
     "organ": "pancreas, human",
     "stain": "HE",
@@ -650,8 +520,6 @@
     "webid": "083-D84.svs"
   },
   {
-    "index": 65,
-    "id": 66,
     "Slideid": "D85",
     "organ": "pancreas, human",
     "stain": "HE",
@@ -660,8 +528,6 @@
     "webid": "084-D85.svs"
   },
   {
-    "index": 66,
-    "id": 67,
     "Slideid": "D90(2008/10)",
     "organ": "liver,human",
     "stain": "HE",
@@ -670,8 +536,6 @@
     "webid": "123-D90.svs"
   },
   {
-    "index": 67,
-    "id": 68,
     "Slideid": "D91",
     "organ": "liver, cat",
     "stain": "HE",
@@ -680,8 +544,6 @@
     "webid": "087-D91.svs"
   },
   {
-    "index": 68,
-    "id": 69,
     "Slideid": "D91'",
     "organ": "liver, cat",
     "stain": "HE",
@@ -690,8 +552,6 @@
     "webid": "087-D91`.svs"
   },
   {
-    "index": 69,
-    "id": 70,
     "Slideid": "D92",
     "organ": "liver, rabbit",
     "stain": "vital stain (trypan blue+carmine)",
@@ -700,8 +560,6 @@
     "webid": "088-D92.svs"
   },
   {
-    "index": 0,
-    "id": 71,
     "Slideid": "D93",
     "organ": "liver, monkey",
     "stain": "silver stain(F)",
@@ -710,8 +568,6 @@
     "webid": "125-D93.svs"
   },
   {
-    "index": 1,
-    "id": 72,
     "Slideid": "D94",
     "organ": "liver and gall bladder, human",
     "stain": "HE",
@@ -720,8 +576,6 @@
     "webid": "090-D94.svs"
   },
   {
-    "index": 2,
-    "id": 73,
     "Slideid": "D95",
     "organ": "liver and gall bladder, monkey",
     "stain": "HE",
@@ -730,8 +584,6 @@
     "webid": "091-D95.svs"
   },
   {
-    "index": 3,
-    "id": 74,
     "Slideid": "D99",
     "organ": "liver, monkey",
     "stain": "HE",
@@ -740,8 +592,6 @@
     "webid": "094-D99.svs"
   },
   {
-    "index": 4,
-    "id": 75,
     "Slideid": "E11",
     "organ": "pineal body, human",
     "stain": "HE",
@@ -750,8 +600,6 @@
     "webid": "096-E11.svs"
   },
   {
-    "index": 5,
-    "id": 76,
     "Slideid": "E12",
     "organ": "pineal body, human",
     "stain": "HE",
@@ -760,8 +608,6 @@
     "webid": "097-E12.svs"
   },
   {
-    "index": 6,
-    "id": 77,
     "Slideid": "E12",
     "organ": "pineal body, human",
     "stain": "HE",
@@ -770,8 +616,6 @@
     "webid": "097-E12.svs"
   },
   {
-    "index": 7,
-    "id": 78,
     "Slideid": "E12(2008/10)",
     "organ": "pineal body, human",
     "stain": "HE",
@@ -780,8 +624,6 @@
     "webid": "127-E12.svs"
   },
   {
-    "index": 8,
-    "id": 79,
     "Slideid": "E14",
     "organ": "pineal body (brain sand)",
     "stain": "HE",
@@ -790,8 +632,6 @@
     "webid": "101-E14.svs"
   },
   {
-    "index": 9,
-    "id": 80,
     "Slideid": "E24",
     "organ": "pituitary gland, human",
     "stain": "HE",
@@ -800,8 +640,6 @@
     "webid": "102-E24.svs"
   },
   {
-    "index": 10,
-    "id": 81,
     "Slideid": "E25",
     "organ": "pituitary gland, human",
     "stain": "HE",
@@ -810,8 +648,6 @@
     "webid": "103-E25.svs"
   },
   {
-    "index": 11,
-    "id": 82,
     "Slideid": "E25",
     "organ": "pituitary gland, human",
     "stain": "HE",
@@ -820,8 +656,6 @@
     "webid": "E-25 Pituitary gland.svs"
   },
   {
-    "index": 12,
-    "id": 83,
     "Slideid": "E32",
     "organ": "thyroid gland, human",
     "stain": "HE",
@@ -830,8 +664,6 @@
     "webid": "002-E32.svs"
   },
   {
-    "index": 13,
-    "id": 84,
     "Slideid": "E32(2008/10)",
     "organ": "thyroid gland, human",
     "stain": "HE(F)",
@@ -840,8 +672,6 @@
     "webid": "146-E32.svs"
   },
   {
-    "index": 14,
-    "id": 85,
     "Slideid": "E34",
     "organ": "thyroid gland & skeletal muscle, monkey",
     "stain": "HE",
@@ -850,8 +680,6 @@
     "webid": "003-E34.svs"
   },
   {
-    "index": 15,
-    "id": 86,
     "Slideid": "E41",
     "organ": "thyroid gland & parathyroid gland, human",
     "stain": "HE",
@@ -860,8 +688,6 @@
     "webid": "B005-E41.svs"
   },
   {
-    "index": 16,
-    "id": 87,
     "Slideid": "E41(2008/10)",
     "organ": "thyroid gland & parathyroid gland, human",
     "stain": "HE",
@@ -870,8 +696,6 @@
     "webid": "147-E41.svs"
   },
   {
-    "index": 17,
-    "id": 88,
     "Slideid": "E42",
     "organ": "thyroid gland & parathyroid gland, human",
     "stain": "HE",
@@ -880,8 +704,6 @@
     "webid": "B006-E42.svs"
   },
   {
-    "index": 18,
-    "id": 89,
     "Slideid": "E43",
     "organ": "parathyroid gland",
     "stain": "HE",
@@ -890,8 +712,6 @@
     "webid": "B004-E43.svs"
   },
   {
-    "index": 19,
-    "id": 90,
     "Slideid": "E51",
     "organ": "adrenal gland, human",
     "stain": "HE",
@@ -900,8 +720,6 @@
     "webid": "148-E51.svs"
   },
   {
-    "index": 20,
-    "id": 91,
     "Slideid": "E52",
     "organ": "adrenal gland, monkey",
     "stain": "HE",
@@ -910,8 +728,6 @@
     "webid": "B009-E52.svs"
   },
   {
-    "index": 21,
-    "id": 92,
     "Slideid": "E53",
     "organ": "adrenal gland, monkey",
     "stain": "HE",
@@ -920,8 +736,6 @@
     "webid": "008-E53.svs"
   },
   {
-    "index": 22,
-    "id": 93,
     "Slideid": "F11",
     "organ": "ovary(mature), human",
     "stain": "HE",
@@ -930,8 +744,6 @@
     "webid": "151-F11.svs"
   },
   {
-    "index": 23,
-    "id": 94,
     "Slideid": "F12",
     "organ": "ovary (corpus luteum), monkey",
     "stain": "HE",
@@ -940,8 +752,6 @@
     "webid": "010-F12.svs"
   },
   {
-    "index": 24,
-    "id": 95,
     "Slideid": "F12(2008/10)",
     "organ": "overy (corpus luteum), monkey",
     "stain": "HE(ZF)",
@@ -950,8 +760,6 @@
     "webid": "152-F12.svs"
   },
   {
-    "index": 25,
-    "id": 96,
     "Slideid": "F13",
     "organ": "ovary (corpus luteum), human",
     "stain": "HE",
@@ -960,8 +768,6 @@
     "webid": "011-F13.svs"
   },
   {
-    "index": 26,
-    "id": 97,
     "Slideid": "F22",
     "organ": "uterine tube (ampula), x.s., monkey",
     "stain": "HE",
@@ -970,8 +776,6 @@
     "webid": "015-F22.svs"
   },
   {
-    "index": 27,
-    "id": 98,
     "Slideid": "F23",
     "organ": "uterine tube (ampula), x.s., monkey",
     "stain": "HE",
@@ -980,8 +784,6 @@
     "webid": "F-23 Uterine tube(Ampulla).svs"
   },
   {
-    "index": 28,
-    "id": 99,
     "Slideid": "F24",
     "organ": "uterine tube (isthmus), x.s., monkey",
     "stain": "HE",
@@ -990,8 +792,6 @@
     "webid": "F-24 Uterine tubeisthmus.svs"
   },
   {
-    "index": 29,
-    "id": 100,
     "Slideid": "F30",
     "organ": "uterus (proliferative phase), x.s., monkey",
     "stain": "HE",
@@ -1000,8 +800,6 @@
     "webid": "016-F30.svs"
   },
   {
-    "index": 30,
-    "id": 101,
     "Slideid": "F31",
     "organ": "uterus (proliferative phase), x.s., monkey",
     "stain": "HE",
@@ -1010,8 +808,6 @@
     "webid": "017-F31.svs"
   },
   {
-    "index": 31,
-    "id": 102,
     "Slideid": "F31(2008/10)",
     "organ": "uterus (proliferative phase), x.s., monkey",
     "stain": "HE(B)",
@@ -1020,8 +816,6 @@
     "webid": "153-F31.svs"
   },
   {
-    "index": 32,
-    "id": 103,
     "Slideid": "F33",
     "organ": "uterus (secretory phase), x.s., human",
     "stain": "HE",
@@ -1030,8 +824,6 @@
     "webid": "155-F33.svs"
   },
   {
-    "index": 33,
-    "id": 104,
     "Slideid": "F34",
     "organ": "uterus (gestation period), x.s., human",
     "stain": "HE",
@@ -1040,8 +832,6 @@
     "webid": "020-F34.svs"
   },
   {
-    "index": 34,
-    "id": 105,
     "Slideid": "F35",
     "organ": "uterus (gestation period), x.s., human",
     "stain": "HE",
@@ -1050,8 +840,6 @@
     "webid": "F-35 Uterus.svs"
   },
   {
-    "index": 35,
-    "id": 106,
     "Slideid": "F41",
     "organ": "vagina, l.s., human",
     "stain": "HE",
@@ -1060,8 +848,6 @@
     "webid": "021-F41.svs"
   },
   {
-    "index": 36,
-    "id": 107,
     "Slideid": "F41(2008/10)",
     "organ": "vagina, l.s., human",
     "stain": "HE",
@@ -1070,8 +856,6 @@
     "webid": "156-F41.svs"
   },
   {
-    "index": 37,
-    "id": 108,
     "Slideid": "F42",
     "organ": "vagina, l.s., human",
     "stain": "HE",
@@ -1080,8 +864,6 @@
     "webid": "F-42 Vagina.svs"
   },
   {
-    "index": 38,
-    "id": 109,
     "Slideid": "I11",
     "organ": "thick skin(plantar), human",
     "stain": "HE",
@@ -1090,8 +872,6 @@
     "webid": "157-I11.svs"
   },
   {
-    "index": 39,
-    "id": 110,
     "Slideid": "I12",
     "organ": "skin, human",
     "stain": "HE",
@@ -1100,8 +880,6 @@
     "webid": "023-I12.svs"
   },
   {
-    "index": 40,
-    "id": 111,
     "Slideid": "I13",
     "organ": "skin (hair follicle), human",
     "stain": "HE",
@@ -1110,8 +888,6 @@
     "webid": "158-I13.svs"
   },
   {
-    "index": 41,
-    "id": 112,
     "Slideid": "I14",
     "organ": "nipple and mammary gland (inactive), l.s., monkey",
     "stain": "HE",
@@ -1120,8 +896,6 @@
     "webid": "025-I14.svs"
   },
   {
-    "index": 42,
-    "id": 113,
     "Slideid": "I14(2008/10)",
     "organ": "thick skin (sweat gland), human",
     "stain": "HE",
@@ -1130,8 +904,6 @@
     "webid": "159-I14.svs"
   },
   {
-    "index": 43,
-    "id": 114,
     "Slideid": "I15",
     "organ": "skin (eyelid), human",
     "stain": "HE",
@@ -1140,8 +912,6 @@
     "webid": "I-15 Skin of eyelid.svs"
   },
   {
-    "index": 44,
-    "id": 115,
     "Slideid": "I21",
     "organ": "skin (scalp), human",
     "stain": "HE",
@@ -1150,8 +920,6 @@
     "webid": "026-I21.svs"
   },
   {
-    "index": 45,
-    "id": 116,
     "Slideid": "I21'",
     "organ": "skin (scalp), human",
     "stain": "HE",
@@ -1160,8 +928,6 @@
     "webid": "026-I21`.svs"
   },
   {
-    "index": 46,
-    "id": 117,
     "Slideid": "I31",
     "organ": "nail, l.s., human infant.",
     "stain": "HE",
@@ -1170,8 +936,6 @@
     "webid": "160-I31.svs"
   },
   {
-    "index": 47,
-    "id": 118,
     "Slideid": "I40",
     "organ": "nipple and mammary gland (inactive), x.s., monkey",
     "stain": "HE",
@@ -1180,8 +944,6 @@
     "webid": "029-I40.svs"
   },
   {
-    "index": 48,
-    "id": 119,
     "Slideid": "I41",
     "organ": "mammary gland (inactive), x.s., human",
     "stain": "HE",
@@ -1190,8 +952,6 @@
     "webid": "161-I41.svs"
   },
   {
-    "index": 49,
-    "id": 120,
     "Slideid": "I42",
     "organ": "mammary gland (active), x.s., human",
     "stain": "HE",
@@ -1200,8 +960,6 @@
     "webid": "162-I42.svs"
   },
   {
-    "index": 50,
-    "id": 121,
     "Slideid": "L11(2008/10)",
     "organ": "lymph node, human",
     "stain": "Masson's trichrome stain",
@@ -1210,8 +968,6 @@
     "webid": "163-L11.svs"
   },
   {
-    "index": 51,
-    "id": 122,
     "Slideid": "L14",
     "organ": "lymph node, monkey",
     "stain": "HE",
@@ -1220,8 +976,6 @@
     "webid": "036-L14.svs"
   },
   {
-    "index": 52,
-    "id": 123,
     "Slideid": "L20",
     "organ": "palatine tonsil, human",
     "stain": "HE",
@@ -1230,8 +984,6 @@
     "webid": "038-L20.svs"
   },
   {
-    "index": 53,
-    "id": 124,
     "Slideid": "L21",
     "organ": "lingual tonsil, human",
     "stain": "HE",
@@ -1240,8 +992,6 @@
     "webid": "165-L21.svs"
   },
   {
-    "index": 54,
-    "id": 125,
     "Slideid": "L22",
     "organ": "palatine tonsil, human",
     "stain": "HE",
@@ -1250,8 +1000,6 @@
     "webid": "039-L22.svs"
   },
   {
-    "index": 55,
-    "id": 126,
     "Slideid": "L23",
     "organ": "palatine tonsil, human",
     "stain": "HE",
@@ -1260,8 +1008,6 @@
     "webid": "L-23 Palatine tonsils.svs"
   },
   {
-    "index": 56,
-    "id": 127,
     "Slideid": "L23(2008/10)",
     "organ": "palatine tonsil, human",
     "stain": "HE",
@@ -1270,8 +1016,6 @@
     "webid": "166-L23.svs"
   },
   {
-    "index": 57,
-    "id": 128,
     "Slideid": "L24",
     "organ": "pharyngeal tonsil, human",
     "stain": "HE",
@@ -1280,8 +1024,6 @@
     "webid": "041-L24.svs"
   },
   {
-    "index": 58,
-    "id": 129,
     "Slideid": "L31(2008/10)",
     "organ": "spleen, human",
     "stain": "HE",
@@ -1290,8 +1032,6 @@
     "webid": "167-L31.svs"
   },
   {
-    "index": 59,
-    "id": 130,
     "Slideid": "L32(2008/10)",
     "organ": "spleen, monkey",
     "stain": "HE(F)",
@@ -1300,8 +1040,6 @@
     "webid": "168-L32.svs"
   },
   {
-    "index": 60,
-    "id": 131,
     "Slideid": "L34",
     "organ": "spleen, monkey",
     "stain": "silver stain(F)",
@@ -1310,8 +1048,6 @@
     "webid": "169-L34.svs"
   },
   {
-    "index": 61,
-    "id": 132,
     "Slideid": "L35",
     "organ": "spleen, monkey",
     "stain": "HE",
@@ -1320,8 +1056,6 @@
     "webid": "045-L35.svs"
   },
   {
-    "index": 62,
-    "id": 133,
     "Slideid": "L41",
     "organ": "thymus, human",
     "stain": "HE",
@@ -1330,8 +1064,6 @@
     "webid": "046-L41.svs"
   },
   {
-    "index": 63,
-    "id": 134,
     "Slideid": "L42",
     "organ": "thymus, human",
     "stain": "HE",
@@ -1340,8 +1072,6 @@
     "webid": "047-L42.svs"
   },
   {
-    "index": 64,
-    "id": 135,
     "Slideid": "L43",
     "organ": "thymus, human (adult)",
     "stain": "HE",
@@ -1350,8 +1080,6 @@
     "webid": "048-L43.svs"
   },
   {
-    "index": 65,
-    "id": 136,
     "Slideid": "L43(2008/10)",
     "organ": "thymus, human (adult)",
     "stain": "HE(F)",
@@ -1360,8 +1088,6 @@
     "webid": "170-L43.svs"
   },
   {
-    "index": 66,
-    "id": 137,
     "Slideid": "M14'",
     "organ": "testis, monkey",
     "stain": "HE",
@@ -1370,8 +1096,6 @@
     "webid": "052-M14`.svs"
   },
   {
-    "index": 67,
-    "id": 138,
     "Slideid": "M14(2008/10)",
     "organ": "testis, monkey",
     "stain": "HE",
@@ -1380,8 +1104,6 @@
     "webid": "171-M14.svs"
   },
   {
-    "index": 68,
-    "id": 139,
     "Slideid": "M15",
     "organ": "testis and epididymus, sag.s., monkey",
     "stain": "HE",
@@ -1390,8 +1112,6 @@
     "webid": "053-M15.svs"
   },
   {
-    "index": 69,
-    "id": 140,
     "Slideid": "M15(2008/10)",
     "organ": "testis, epididymus and ductus deferens, sag.s., monkey",
     "stain": "HE",
@@ -1400,8 +1120,6 @@
     "webid": "172-M15.svs"
   },
   {
-    "index": 0,
-    "id": 141,
     "Slideid": "M21",
     "organ": "epididymus, human",
     "stain": "HE",
@@ -1410,8 +1128,6 @@
     "webid": "054-M21.svs"
   },
   {
-    "index": 1,
-    "id": 142,
     "Slideid": "M21(2008/10)",
     "organ": "epididymus, human",
     "stain": "HE(F)",
@@ -1420,8 +1136,6 @@
     "webid": "173-M21.svs"
   },
   {
-    "index": 2,
-    "id": 143,
     "Slideid": "M22",
     "organ": "epididymus, monkey",
     "stain": "HE",
@@ -1430,8 +1144,6 @@
     "webid": "055-M22.svs"
   },
   {
-    "index": 3,
-    "id": 144,
     "Slideid": "M23",
     "organ": "epididymus, monkey",
     "stain": "HE",
@@ -1440,8 +1152,6 @@
     "webid": "M-23 Epidiymis.svs"
   },
   {
-    "index": 4,
-    "id": 145,
     "Slideid": "M32",
     "organ": "ductus deferens, x.s., monkey",
     "stain": "HE",
@@ -1450,8 +1160,6 @@
     "webid": "056-M32.svs"
   },
   {
-    "index": 5,
-    "id": 146,
     "Slideid": "M33",
     "organ": "ductus deferens, x.s., monkey",
     "stain": "HE",
@@ -1460,8 +1168,6 @@
     "webid": "057-M33.svs"
   },
   {
-    "index": 6,
-    "id": 147,
     "Slideid": "M33(2008/10)",
     "organ": "ductus deferens, x.s., monkey",
     "stain": "HE(F)",
@@ -1470,8 +1176,6 @@
     "webid": "174-M33.svs"
   },
   {
-    "index": 7,
-    "id": 148,
     "Slideid": "M42",
     "organ": "seminal vesicle, human",
     "stain": "HE",
@@ -1480,8 +1184,6 @@
     "webid": "059-M42.svs"
   },
   {
-    "index": 8,
-    "id": 149,
     "Slideid": "M42(2008/10)",
     "organ": "seminal vesicle, human",
     "stain": "HE(F)",
@@ -1490,8 +1192,6 @@
     "webid": "175-M42.svs"
   },
   {
-    "index": 9,
-    "id": 150,
     "Slideid": "M52",
     "organ": "prostate gland, human",
     "stain": "HE",
@@ -1500,8 +1200,6 @@
     "webid": "062-M52.svs"
   },
   {
-    "index": 10,
-    "id": 151,
     "Slideid": "M52(2008/10)",
     "organ": "prostate gland, human",
     "stain": "HE(F)",
@@ -1510,8 +1208,6 @@
     "webid": "178-M52.svs"
   },
   {
-    "index": 11,
-    "id": 152,
     "Slideid": "M53",
     "organ": "prostate gland, monkey",
     "stain": "HE",
@@ -1520,8 +1216,6 @@
     "webid": "M-53 prostate.svs"
   },
   {
-    "index": 12,
-    "id": 153,
     "Slideid": "M61",
     "organ": "penis, x.s., human",
     "stain": "HE",
@@ -1530,8 +1224,6 @@
     "webid": "179-M61.svs"
   },
   {
-    "index": 13,
-    "id": 154,
     "Slideid": "M62",
     "organ": "penis, x.s., monkey",
     "stain": "HE",
@@ -1540,8 +1232,6 @@
     "webid": "065-M62.svs"
   },
   {
-    "index": 14,
-    "id": 155,
     "Slideid": "R10",
     "organ": "nasal septum, monkey",
     "stain": "HE",
@@ -1550,8 +1240,6 @@
     "webid": "067-R10.svs"
   },
   {
-    "index": 15,
-    "id": 156,
     "Slideid": "R11",
     "organ": "nasal septum, monkey",
     "stain": "HE",
@@ -1560,8 +1248,6 @@
     "webid": "B067-R11.svs"
   },
   {
-    "index": 16,
-    "id": 157,
     "Slideid": "R12",
     "organ": "olfactory epithelium",
     "stain": "HE(B)",
@@ -1570,8 +1256,6 @@
     "webid": "181-R12.svs"
   },
   {
-    "index": 17,
-    "id": 158,
     "Slideid": "R21",
     "organ": "larynx, frontal section, monkey",
     "stain": "HE",
@@ -1580,8 +1264,6 @@
     "webid": "B069-R21.svs"
   },
   {
-    "index": 18,
-    "id": 159,
     "Slideid": "R21(2008/10)",
     "organ": "larynx, frontal section, monkey",
     "stain": "HE(B)",
@@ -1590,8 +1272,6 @@
     "webid": "182-R21.svs"
   },
   {
-    "index": 19,
-    "id": 160,
     "Slideid": "R22",
     "organ": "larynx, sagittal section, monkey",
     "stain": "Resorcin-fuchsin + camine",
@@ -1600,8 +1280,6 @@
     "webid": "B070-R22.svs"
   },
   {
-    "index": 20,
-    "id": 161,
     "Slideid": "R22",
     "organ": "larynx, sagittal section, monkey",
     "stain": "Resorcin-fuchsin + camine",
@@ -1610,8 +1288,6 @@
     "webid": "007-R22.svs"
   },
   {
-    "index": 21,
-    "id": 162,
     "Slideid": "R33",
     "organ": "trachea, x.s. & l.s., monkey",
     "stain": "HE",
@@ -1620,8 +1296,6 @@
     "webid": "072-R33.svs"
   },
   {
-    "index": 22,
-    "id": 163,
     "Slideid": "R33'",
     "organ": "trachea, l.s., monkey",
     "stain": "HE",
@@ -1630,8 +1304,6 @@
     "webid": "072-R33`.svs"
   },
   {
-    "index": 23,
-    "id": 164,
     "Slideid": "R41",
     "organ": "lung, human",
     "stain": "HE",
@@ -1640,8 +1312,6 @@
     "webid": "073-R41.svs"
   },
   {
-    "index": 24,
-    "id": 165,
     "Slideid": "R43",
     "organ": "lung, monkey",
     "stain": "HE",
@@ -1650,8 +1320,6 @@
     "webid": "075-R43.svs"
   },
   {
-    "index": 25,
-    "id": 166,
     "Slideid": "R44",
     "organ": "lung, monkey",
     "stain": "carmine",
@@ -1660,8 +1328,6 @@
     "webid": "B076-R44.svs"
   },
   {
-    "index": 26,
-    "id": 167,
     "Slideid": "R45",
     "organ": "lung, monkey",
     "stain": "HE",
@@ -1670,8 +1336,6 @@
     "webid": "B077-R45.svs"
   },
   {
-    "index": 27,
-    "id": 168,
     "Slideid": "R45",
     "organ": "lung, monkey",
     "stain": "HE",
@@ -1680,8 +1344,6 @@
     "webid": "B077`-R45.svs"
   },
   {
-    "index": 28,
-    "id": 169,
     "Slideid": "R46",
     "organ": "lung, monkey",
     "stain": "HE",
@@ -1690,8 +1352,6 @@
     "webid": "B077`-R46.svs"
   },
   {
-    "index": 29,
-    "id": 170,
     "Slideid": "S11",
     "organ": "eyeball, monkey",
     "stain": "HE",
@@ -1700,8 +1360,6 @@
     "webid": "078-S11.svs"
   },
   {
-    "index": 30,
-    "id": 171,
     "Slideid": "S12",
     "organ": "eyeball, monkey",
     "stain": "HE",
@@ -1710,8 +1368,6 @@
     "webid": "079-S12.svs"
   },
   {
-    "index": 31,
-    "id": 172,
     "Slideid": "S13",
     "organ": "eyeball, monkey",
     "stain": "HE",
@@ -1720,8 +1376,6 @@
     "webid": "080-S13.svs"
   },
   {
-    "index": 32,
-    "id": 173,
     "Slideid": "S14",
     "organ": "eyeball (optic nerve & muscles), monkey",
     "stain": "HE",
@@ -1730,8 +1384,6 @@
     "webid": "S14.svs"
   },
   {
-    "index": 33,
-    "id": 174,
     "Slideid": "S22",
     "organ": "eyelid, sag.s., monkey",
     "stain": "HE",
@@ -1740,8 +1392,6 @@
     "webid": "080-S22.svs"
   },
   {
-    "index": 34,
-    "id": 175,
     "Slideid": "S41",
     "organ": "cochlea, l.s., guinea pig",
     "stain": "HE",
@@ -1750,8 +1400,6 @@
     "webid": "084-S41.svs"
   },
   {
-    "index": 35,
-    "id": 176,
     "Slideid": "TC21",
     "organ": "tendon, l.s., human",
     "stain": "HE",
@@ -1760,8 +1408,6 @@
     "webid": "128-TC21.svs"
   },
   {
-    "index": 36,
-    "id": 177,
     "Slideid": "TC22",
     "organ": "tendon and muscle, monkey",
     "stain": "HE",
@@ -1770,8 +1416,6 @@
     "webid": "002-TC22.svs"
   },
   {
-    "index": 37,
-    "id": 178,
     "Slideid": "TC23",
     "organ": "tendon and muscle, x.s. & l.s., monkey",
     "stain": "HE",
@@ -1780,8 +1424,6 @@
     "webid": "003-TC23.svs"
   },
   {
-    "index": 38,
-    "id": 179,
     "Slideid": "TC23(2008/10)",
     "organ": "tendon and muscle, x.s. & l.s., monkey",
     "stain": "He(F)",
@@ -1790,8 +1432,6 @@
     "webid": "129-TC23.svs"
   },
   {
-    "index": 39,
-    "id": 180,
     "Slideid": "TC31",
     "organ": "loose connective tissue (mesentery), human",
     "stain": "HE",
@@ -1800,8 +1440,6 @@
     "webid": "130-TC31.svs"
   },
   {
-    "index": 40,
-    "id": 181,
     "Slideid": "TF11",
     "organ": "dried blood smear, human",
     "stain": "Giemsa stain",
@@ -1810,8 +1448,6 @@
     "webid": "005-TF11.svs"
   },
   {
-    "index": 41,
-    "id": 182,
     "Slideid": "TF11(2008/10)",
     "organ": "dried blood smear,human",
     "stain": "Giemsa stain",
@@ -1820,8 +1456,6 @@
     "webid": "131-TF11.svs"
   },
   {
-    "index": 42,
-    "id": 183,
     "Slideid": "TF12",
     "organ": "dried blood smear, human",
     "stain": "Wright's stain",
@@ -1830,8 +1464,6 @@
     "webid": "006-TF12.svs"
   },
   {
-    "index": 43,
-    "id": 184,
     "Slideid": "TF12(2008/10)",
     "organ": "tendon and muscle, x.s. & l.s., monkey",
     "stain": "HE",
@@ -1840,8 +1472,6 @@
     "webid": "132-TF12.svs"
   },
   {
-    "index": 44,
-    "id": 185,
     "Slideid": "TM10",
     "organ": "skeletal muscle and tendon, l.s., monkey",
     "stain": "HE",
@@ -1850,8 +1480,6 @@
     "webid": "007-TM10.svs"
   },
   {
-    "index": 45,
-    "id": 186,
     "Slideid": "TM11(2008/10)",
     "organ": "skeletal muscle and tendon, a.s.,monkey",
     "stain": "HE(F)",
@@ -1860,8 +1488,6 @@
     "webid": "134-TM11.svs"
   },
   {
-    "index": 46,
-    "id": 187,
     "Slideid": "TM12",
     "organ": "skeletal muscle and tendon, x.s., monkey",
     "stain": "HE",
@@ -1870,8 +1496,6 @@
     "webid": "009-TM12.svs"
   },
   {
-    "index": 47,
-    "id": 188,
     "Slideid": "TM12(2008/10)",
     "organ": "cardiac muscle, monkey",
     "stain": "HE(F)",
@@ -1880,8 +1504,6 @@
     "webid": "135-TM12.svs"
   },
   {
-    "index": 48,
-    "id": 189,
     "Slideid": "TM20",
     "organ": "cardiac muscle, monkey",
     "stain": "HE",
@@ -1890,8 +1512,6 @@
     "webid": "010-TM20.svs"
   },
   {
-    "index": 49,
-    "id": 190,
     "Slideid": "TM21",
     "organ": "cardiac muscle, monkey",
     "stain": "HE(B)",
@@ -1900,8 +1520,6 @@
     "webid": "136-TM21.svs"
   },
   {
-    "index": 50,
-    "id": 191,
     "Slideid": "TM22",
     "organ": "cardiac muscle, monkey",
     "stain": "HE",
@@ -1910,8 +1528,6 @@
     "webid": "011-TM22.svs"
   },
   {
-    "index": 51,
-    "id": 192,
     "Slideid": "TM24",
     "organ": "cardiac muscle (Purkinje fibers), monkey",
     "stain": "IH",
@@ -1920,8 +1536,6 @@
     "webid": "137-TM24.svs"
   },
   {
-    "index": 52,
-    "id": 193,
     "Slideid": "TM25",
     "organ": "papillary muscle of heart, monkey",
     "stain": "HE",
@@ -1930,8 +1544,6 @@
     "webid": "TM-25 Papillary muscle.svs"
   },
   {
-    "index": 53,
-    "id": 194,
     "Slideid": "TN12",
     "organ": "muscle and nerve, monkey",
     "stain": "HE",
@@ -1940,8 +1552,6 @@
     "webid": "015-TN12.svs"
   },
   {
-    "index": 54,
-    "id": 195,
     "Slideid": "TN13",
     "organ": "nerve, x.s. & l.s., monkey",
     "stain": "HE",
@@ -1950,8 +1560,6 @@
     "webid": "TN13.svs"
   },
   {
-    "index": 55,
-    "id": 196,
     "Slideid": "TN15",
     "organ": "nerve, x.s. & l.s., monkey",
     "stain": "osmic acid",
@@ -1960,8 +1568,6 @@
     "webid": "018-TN15.svs"
   },
   {
-    "index": 56,
-    "id": 197,
     "Slideid": "TN16",
     "organ": "nerve, l.s., monkey",
     "stain": "osmic acid",
@@ -1970,8 +1576,6 @@
     "webid": "019-TN16.svs"
   },
   {
-    "index": 57,
-    "id": 198,
     "Slideid": "TN17",
     "organ": "nerve, x.s. & l.s., monkey",
     "stain": "osmic acid",
@@ -1980,8 +1584,6 @@
     "webid": "020-TN17.svs"
   },
   {
-    "index": 58,
-    "id": 199,
     "Slideid": "TN18",
     "organ": "nerve, l.s., monkey",
     "stain": "osmic acid",
@@ -1990,8 +1592,6 @@
     "webid": "016-TN18.svs"
   },
   {
-    "index": 59,
-    "id": 200,
     "Slideid": "TN18",
     "organ": "nerve, x.s. & l.s., monkey",
     "stain": "HE",
@@ -2000,8 +1600,6 @@
     "webid": "TN-18 Nerve.svs"
   },
   {
-    "index": 60,
-    "id": 201,
     "Slideid": "TN22",
     "organ": "spinal ganglion, l.s., monkey",
     "stain": "HE",
@@ -2010,18 +1608,14 @@
     "webid": "TN22.svs"
   },
   {
-    "index": 61,
-    "id": 202,
     "Slideid": "TN23",
     "organ": "spinal ganglion, l.s., monkey",
-    "stain": "HE(\u892a\u8272)",
+    "stain": "HE(褪色)",
     "upload": "",
     "folder": "A",
     "webid": "022-TN23.svs"
   },
   {
-    "index": 62,
-    "id": 203,
     "Slideid": "TN25",
     "organ": "spinal ganglion, x.s., monkey",
     "stain": "",
@@ -2030,8 +1624,6 @@
     "webid": "TN-25 Dorsal root ganglion.svs"
   },
   {
-    "index": 63,
-    "id": 204,
     "Slideid": "TN26",
     "organ": "sympathetic ganglion, monkey",
     "stain": "HE",
@@ -2040,8 +1632,6 @@
     "webid": "140-TN26.svs"
   },
   {
-    "index": 64,
-    "id": 205,
     "Slideid": "TS13",
     "organ": "auricle, human",
     "stain": "Resorcin-fuchsin + camine",
@@ -2050,8 +1640,6 @@
     "webid": "027-TS13.svs"
   },
   {
-    "index": 65,
-    "id": 206,
     "Slideid": "TS36",
     "organ": "knee joint, l.s., monkey fetus",
     "stain": "HE",
@@ -2060,8 +1648,6 @@
     "webid": "029-TS36.svs"
   },
   {
-    "index": 66,
-    "id": 207,
     "Slideid": "TS38",
     "organ": "femoral head, l.s., monkey fetus",
     "stain": "HE",
@@ -2070,8 +1656,6 @@
     "webid": "031-TS38.svs"
   },
   {
-    "index": 67,
-    "id": 208,
     "Slideid": "TS38(2008/10)",
     "organ": "elboe joint, l.s., monkey fetus",
     "stain": "HE(F)",
@@ -2080,8 +1664,6 @@
     "webid": "144-TS38.svs"
   },
   {
-    "index": 68,
-    "id": 209,
     "Slideid": "TS41",
     "organ": "intramembranous ossification, sagittal s., rat fetal skull",
     "stain": "HE",
@@ -2090,8 +1672,6 @@
     "webid": "032-TS41.svs"
   },
   {
-    "index": 69,
-    "id": 210,
     "Slideid": "TS41(2008/10)",
     "organ": "intramembranous ossification, frontal s., rat fetal skull",
     "stain": "special stain",
@@ -2100,8 +1680,6 @@
     "webid": "145-TS41.svs"
   },
   {
-    "index": 0,
-    "id": 211,
     "Slideid": "TS42",
     "organ": "intramembranous ossification, scalp & skull",
     "stain": "HE",
@@ -2110,8 +1688,6 @@
     "webid": "033-TS42.svs"
   },
   {
-    "index": 1,
-    "id": 212,
     "Slideid": "TS51",
     "organ": "long bone ground section (radius), x.s., human",
     "stain": "",
@@ -2120,8 +1696,6 @@
     "webid": "034-TS51.svs"
   },
   {
-    "index": 2,
-    "id": 213,
     "Slideid": "TS51",
     "organ": "long bone ground section (radius), x.s., human",
     "stain": "",
@@ -2130,8 +1704,6 @@
     "webid": "034`-TS51~1.svs"
   },
   {
-    "index": 3,
-    "id": 214,
     "Slideid": "TS51",
     "organ": "long bone ground section (radius), x.s., human",
     "stain": "",
@@ -2140,8 +1712,6 @@
     "webid": "034``TS51~2.svs"
   },
   {
-    "index": 4,
-    "id": 215,
     "Slideid": "TS52",
     "organ": "decalcified diaphysis (radius), x.s., monkey",
     "stain": "HE",
@@ -2150,8 +1720,6 @@
     "webid": "035-TS52.svs"
   },
   {
-    "index": 5,
-    "id": 216,
     "Slideid": "U10",
     "organ": "kidney, human",
     "stain": "HE(ZF)",
@@ -2160,8 +1728,6 @@
     "webid": "183-U10.svs"
   },
   {
-    "index": 6,
-    "id": 217,
     "Slideid": "U11",
     "organ": "kidney, monkey",
     "stain": "HE",
@@ -2170,8 +1736,6 @@
     "webid": "086-U11.svs"
   },
   {
-    "index": 7,
-    "id": 218,
     "Slideid": "U12",
     "organ": "kidney, monkey",
     "stain": "HE",
@@ -2180,8 +1744,6 @@
     "webid": "088-U12.svs"
   },
   {
-    "index": 8,
-    "id": 219,
     "Slideid": "U12'",
     "organ": "kidney, monkey",
     "stain": "HE",
@@ -2190,8 +1752,6 @@
     "webid": "089-U12`.svs"
   },
   {
-    "index": 9,
-    "id": 220,
     "Slideid": "U13",
     "organ": "kidney, frontal section, monkey",
     "stain": "HE",
@@ -2200,8 +1760,6 @@
     "webid": "B089-U13.svs"
   },
   {
-    "index": 10,
-    "id": 221,
     "Slideid": "U22",
     "organ": "ureter, x.s., monkey",
     "stain": "HE",
@@ -2210,18 +1768,14 @@
     "webid": "U-22 Ureters.svs"
   },
   {
-    "index": 11,
-    "id": 222,
     "Slideid": "U32",
     "organ": "urinary bladder, monkey",
-    "stain": "HE(\u892a\u8272)",
+    "stain": "HE(褪色)",
     "upload": "",
     "folder": "B",
     "webid": "092-U32.svs"
   },
   {
-    "index": 12,
-    "id": 223,
     "Slideid": "U33",
     "organ": "urinary bladder, monkey",
     "stain": "HE",
@@ -2230,8 +1784,6 @@
     "webid": "093-U33.svs"
   },
   {
-    "index": 13,
-    "id": 224,
     "Slideid": "V11",
     "organ": "aorta, x.s., monkey",
     "stain": "HE",
@@ -2240,8 +1792,6 @@
     "webid": "094-V11.svs"
   },
   {
-    "index": 14,
-    "id": 225,
     "Slideid": "V12",
     "organ": "aorta, x.s., monkey",
     "stain": "HE",
@@ -2250,8 +1800,6 @@
     "webid": "095-V12.SVS"
   },
   {
-    "index": 15,
-    "id": 226,
     "Slideid": "V14",
     "organ": "aorta, x.s., monkey",
     "stain": "HE",
@@ -2260,8 +1808,6 @@
     "webid": "V-14 Thoracic aorta.svs"
   },
   {
-    "index": 16,
-    "id": 227,
     "Slideid": "V20",
     "organ": "artery, vein (with valve), human",
     "stain": "HE",
@@ -2270,8 +1816,6 @@
     "webid": "097-V20.svs"
   },
   {
-    "index": 17,
-    "id": 228,
     "Slideid": "V21",
     "organ": "artery & vein, human",
     "stain": "Resorcin-fuchsin",
@@ -2280,8 +1824,6 @@
     "webid": "097-V21.svs"
   },
   {
-    "index": 18,
-    "id": 229,
     "Slideid": "V21(2008/10)",
     "organ": "aartery & vein, human",
     "stain": "HE",
@@ -2290,8 +1832,6 @@
     "webid": "186-V21.svs"
   },
   {
-    "index": 19,
-    "id": 230,
     "Slideid": "V23",
     "organ": "artery & vein, rabbit",
     "stain": "HE",
@@ -2300,8 +1840,6 @@
     "webid": "187-V23.svs"
   },
   {
-    "index": 20,
-    "id": 231,
     "Slideid": "V24",
     "organ": "artery & vein, monkey",
     "stain": "HE",
@@ -2310,8 +1848,6 @@
     "webid": "100-V24.svs"
   },
   {
-    "index": 21,
-    "id": 232,
     "Slideid": "V25",
     "organ": "femoral artery & vein, x.s., human",
     "stain": "HE",
@@ -2320,8 +1856,6 @@
     "webid": "V-25 Femoral artery&vein.svs"
   },
   {
-    "index": 22,
-    "id": 233,
     "Slideid": "V30",
     "organ": "thoracic duct, x.s.",
     "stain": "HE",

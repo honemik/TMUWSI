@@ -1,4 +1,5 @@
 <meta charset="utf-8" />
+<!DOCTYPE html>
 <html>
   <head>
     <title>TMUWSI</title>
@@ -6,7 +7,7 @@
   </head>
   
   <body>
-<input type="button" value="返回列表" onclick="location.href='/TMUWSI/index.html'">
+<input type="button" value="返回列表" onclick="location.href='/TMUWSI/index2.html'">
 <form name="form" id="form"> quality: <input type="text" name="quality" id="quality" value="S" />debug: <input type="text" name="debug" id="debug" value="false" />
     <input type="button" name="submit" value="更新" onclick="processFormData();" />
 </form>
@@ -34,9 +35,8 @@
     var maxlev = 0;
     var folder = "A";
     if (getQueryVariable("id") != -1) id = getQueryVariable("id");
-    if (getQueryVariable("folder") != -1) folder = getQueryVariable("folder");
     var xmlhttp = new XMLHttpRequest();
-    var url = "/TMUWSI/b.json";
+    var url = "/TMUWSI/d.json";
     var request = new XMLHttpRequest();
     request.open("GET", url, false); // `false` makes the request synchronous
     request.send(null);
@@ -70,23 +70,36 @@
                 else twidth = (x + 1) * tileSize;
                 if ((y + 1) * tileSize > height / a) theight = Math.round(height / a);
                 else theight = (y + 1) * tileSize;
-                //console.log("http://pbel2.tmu.edu.tw:88/anatomy/A/" + id + "?" + x * tileSize + "+" + y * tileSize + "+" + twidth + "+" + theight + "+" + a + "+80+" + quality);
-                return ("http://pbel2.tmu.edu.tw:88/anatomy/" + folder + "/" + id + "?" + x * tileSize + "+" + y * tileSize + "+" + twidth + "+" + theight + "+" + a + "+80+" + quality);
-                /*console.log(
-                  x + "/" + y + "/" + level + "/" + a + "/" + twidth + "/" + theight
-                );*/
+                return ("http://pbel2.tmu.edu.tw:88/Teaching%20Slide/" + id + ".svs?" + x * tileSize + "+" + y * tileSize + "+" + twidth + "+" + theight + "+" + a + "+80+" + quality);
+                //console.log("http://pbel2.tmu.edu.tw:88/Teaching%20Slide/" + id + ".svs?" + x * tileSize + "+" + y * tileSize + "+" + twidth + "+" + theight + "+" + a + "+80+" + quality);
+
             }
         }
     });
 
-    function jsonparse(data) {
+    function jsonparse(dataa) {
+        /*
         for (var i = 0; i < 233; i++) {
             if (data[i].id == id) {
                 width = data[i].width;
                 height = data[i].height;
                 console.log(data[i]);
             }
+        }*/
+        
+        for (var i = 0; i < 233; i++) {
+            try {
+                var a = (dataa[i].id == id);
+            } catch (error) {
+                return;
+            }
+            if (dataa[i].id == id) {
+                width = dataa[i].width;
+                height = dataa[i].height;
+                console.log(dataa[i]);
+            }
         }
+        
     }
 
     function processFormData() {
