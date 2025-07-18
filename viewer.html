@@ -2,17 +2,17 @@
 <html>
   <head>
     <title>TMUWSI</title>
-    <link type="image/png" sizes="32x32" rel="icon" href="/TMUWSI/icons8-cat-pot-32.png">
+    <link type="image/png" sizes="32x32" rel="icon" href="icons8-cat-pot-32.png">
   </head>
   
   <body>
-<input type="button" value="返回列表" onclick="location.href='/TMUWSI/index.html'">
+<input type="button" value="返回列表" onclick="location.href='index.html'">
 <form name="form" id="form"> quality: <input type="text" name="quality" id="quality" value="S" />debug: <input type="text" name="debug" id="debug" value="false" />
     <input type="button" name="submit" value="更新" onclick="processFormData();" />
 </form>
 <p id="demo"></p>
 <div id="seadragon-viewer" style="width: 100%; height: 100%;"></div>
-<script src="/TMUWSI/openseadragon/openseadragon.min.js"></script>
+<script src="openseadragon/openseadragon.min.js"></script>
 <script>
     function getQueryVariable(variable) {
         var query = window.location.search.substring(1);
@@ -35,7 +35,7 @@
     var folder = "A";
     if (getQueryVariable("id") != -1) id = getQueryVariable("id");
     if (getQueryVariable("folder") != -1) folder = getQueryVariable("folder");
-    const url = "/TMUWSI/b.json";
+    const url = "b.json";
     let viewer;
 
     (async () => {
@@ -55,7 +55,7 @@
         maxlev--;
         viewer = OpenSeadragon({
             id: "seadragon-viewer",
-            prefixUrl: "/TMUWSI/openseadragon/images/",
+            prefixUrl: "openseadragon/images/",
             defaultZoomLevel: 0.25,
             imageLoaderlimit: 1,
             debugMode: true,
@@ -75,8 +75,8 @@
                 else twidth = (x + 1) * tileSize;
                 if ((y + 1) * tileSize > height / a) theight = Math.round(height / a);
                 else theight = (y + 1) * tileSize;
-                //console.log("https://pbel2.tmu.edu.tw:88/anatomy/A/" + id + "?" + x * tileSize + "+" + y * tileSize + "+" + twidth + "+" + theight + "+" + a + "+80+" + quality);
-                return ("https://pbel2.tmu.edu.tw:88/anatomy/" + folder + "/" + id + "?" + x * tileSize + "+" + y * tileSize + "+" + twidth + "+" + theight + "+" + a + "+80+" + quality);
+                //console.log("http://pbel2.tmu.edu.tw:88/anatomy/A/" + id + "?" + x * tileSize + "+" + y * tileSize + "+" + twidth + "+" + theight + "+" + a + "+80+" + quality);
+                return ("http://pbel2.tmu.edu.tw:88/anatomy/" + folder + "/" + id + "?" + x * tileSize + "+" + y * tileSize + "+" + twidth + "+" + theight + "+" + a + "+80+" + quality);
                 /*console.log(
                   x + "/" + y + "/" + level + "/" + a + "/" + twidth + "/" + theight
                 );*/

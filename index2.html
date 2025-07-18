@@ -2,12 +2,12 @@
 <html>
   <head>
     <title>TMUWSI</title>
-    <link type="image/png" sizes="32x32" rel="icon" href="/TMUWSI/icons8-cat-pot-32.png">
+    <link type="image/png" sizes="32x32" rel="icon" href="icons8-cat-pot-32.png">
   </head>
   
   <body>
     <h2>TMUWSI</h2>
-    <input type="button" value="一般組織學" onclick="location.href='/TMUWSI/index.html'">
+    <input type="button" value="一般組織學" onclick="location.href='index.html'">
     <style>
     table,
     th,
@@ -22,7 +22,7 @@
     <p id="demo"></p>
     <script>
       var xmlhttp = new XMLHttpRequest();
-      var url = "/TMUWSI/c.json";
+      var url = "c.json";
 
       var _table_ = document.createElement("table"),
         _tr_ = document.createElement("tr"),
@@ -43,7 +43,7 @@
               var linkt = document.createElement("a");
               linkt.setAttribute(
                 "href",
-                "/TMUWSI/viewer2.html?id=" +
+                "viewer2.html?id=" +
                   arr[i][columns[0]]
               );
               linkt.appendChild(textt);
